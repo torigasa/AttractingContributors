@@ -20,9 +20,6 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Videogames.
-1. FINAL FANTASY
-2. MONSTER HUNTER
-3. League of Legends
-4. APEX Legends
-5. VALORANT
+# List of Anime.
+1. BLEACH
+2. ATTACK ON TITAN
