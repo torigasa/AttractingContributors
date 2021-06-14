@@ -26,3 +26,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. League of Legends
 4. APEX Legends
 5. VALORANT
+6. Super Smash Bros. Ultimate
